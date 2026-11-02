@@ -1,0 +1,10 @@
+# Default behavior
+
+*.svg text
+*.ts linguist-detectable
+* text=auto
+*.map linguist-generated
+public/** linguist-vendored
+*.yml linguist-detectable=false
+
+*.gif binary
